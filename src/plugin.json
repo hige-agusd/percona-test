@@ -1,0 +1,26 @@
+{
+  "type": "panel",
+  "name": "Giphy Panel",
+  "id": "hige-agusd-giphy-panel",
+
+  "info": {
+    "description": "Giphy Panel built in React",
+    "author": {
+      "name": "Agustin Diaz"
+    },
+    "keywords": [ "giphy", "react" ],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [],
+    "screenshots": [],
+    "version": "0.0.1",
+    "updated": "2019-09-18"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": [ ]
+  }
+}
